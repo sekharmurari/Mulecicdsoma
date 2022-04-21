@@ -43,6 +43,7 @@ ELK_SAAS_PWD_PROD="bXVsZXNvZnQtdXNlcjpSVmNlV1gyNCUj"
 #EK variables - END
 
 
+
 if [[ "${SCRIPT_ENVIRONMENT}" == "LHS" ]]; then
         echo "##################################STEP1==================================="
         MULE_PROXY_HOST="proxy.apps.springdigital-devisland.com.au"
